@@ -6,7 +6,7 @@ import '../node_modules/bootstrap/dist/js/bootstrap.min.js';
 import '../node_modules/jquery/dist/jquery.min';
 import '../node_modules/popper.js/dist/umd/popper.min';
 
-import { Menu } from './components/menu';
+import { Menu } from './components/Menu';
 import { Rotas } from './components/Rotas';
 
 export const App = (props) => (
